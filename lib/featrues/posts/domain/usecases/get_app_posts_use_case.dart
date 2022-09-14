@@ -1,5 +1,4 @@
 import 'package:dartz/dartz.dart';
-import 'package:equatable/equatable.dart';
 import 'package:postes_app_clean_architecture/core/base_use_case/base_use_case.dart';
 import 'package:postes_app_clean_architecture/core/error/failures.dart';
 import 'package:postes_app_clean_architecture/featrues/posts/domain/entities/posts.dart';

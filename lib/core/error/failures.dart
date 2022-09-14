@@ -17,3 +17,9 @@ class DataBaseFailure extends Failures{
   // TODO: implement props
   List<Object?> get props => [];
 }
+
+class EmptyCacheFailure extends Failures{
+  @override
+  // TODO: implement props
+  List<Object?> get props => [];
+}
